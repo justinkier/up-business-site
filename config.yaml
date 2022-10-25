@@ -29,7 +29,6 @@ params:
 
   location:
     - "Atlanta, Georgia 30309"
-    - "USA"
 
   contact:
     - "support@kiddiepop.com"
