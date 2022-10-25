@@ -3,13 +3,13 @@ id: "hero"
 
 content:
   title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  text: "Web3 reimagined. Sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
 
   buttonPrimary:
-    label: "How we work"
+    label: "Our philosophy"
     url: "#"
 
   buttonSecondary:
-    label: "Let's talk"
+    label: "Our portfolio"
     url: ""
 
